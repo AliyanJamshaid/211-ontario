@@ -1,0 +1,830 @@
+[
+  {
+    "id": "1",
+    "name": "Abuse / Assault",
+    "icon": "fa fa-exclamation-triangle",
+    "subtopics": [
+      {
+        "id": "2",
+        "heading": "Child abuse services",
+        "description": "Investigation and intervention to ensure the safety and well-being of children who are vulnerable to abuse, neglect or exploitation."
+      },
+      {
+        "id": "3",
+        "heading": "Counselling for abused people",
+        "description": "Counselling programs for people who have experienced or are at risk of abuse."
+      },
+      {
+        "id": "4",
+        "heading": "Crisis lines for abused people",
+        "description": "Immediate counselling and support for people who have experienced or are at risk of abuse"
+      },
+      {
+        "id": "5",
+        "heading": "Sexual assault support",
+        "description": "Support services including counselling, hotlines and shelter for victims of sexual assault."
+      },
+      {
+        "id": "6",
+        "heading": "Shelter for abused women",
+        "description": "Safe emergency accommodation for women who have experienced or are at risk of domestic violence. Most also provide a telephone crisis line, or call Assaulted Women's Helpline 416-863-0511 or 1-866-863-0511 (TTY 1-866-863-7868)."
+      },
+      {
+        "id": "7",
+        "heading": "Victims of abuse support programs",
+        "description": "Wide range of services including information, accompaniment, crisis intervention, counselling and legal services for individuals who have experienced or are at risk of any type of violence or abuse. Some services are available for men as well as women, and for families and friends of victims and survivors."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Community Programs",
+    "icon": "fa fa-book",
+    "subtopics": [
+      {
+        "id": "9",
+        "heading": "Community / Recreation centres",
+        "description": "City-run neighbourhood facilities with a wide range of social programs, as well as recreation services."
+      },
+      {
+        "id": "10",
+        "heading": "Community information",
+        "description": "Programs that provide free general information about community, social, health and government services, often for a specific neighbourhood or area."
+      },
+      {
+        "id": "11",
+        "heading": "Computer access",
+        "description": "Programs that provide free computer and Internet access to members of the public."
+      },
+      {
+        "id": "13",
+        "heading": "Public libraries",
+        "description": "Libraries open to everyone."
+      },
+      {
+        "id": "14",
+        "heading": "Volunteer centres",
+        "description": "Programs that develop and administer the volunteer sector, and match candidates seeking unpaid positions with appropriate opportunities in the community."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Disabilities",
+    "icon": "fa fa-wheelchair",
+    "subtopics": [
+      {
+        "id": "16",
+        "heading": "Assistive devices",
+        "description": "Funding and suppliers of medical supplies, equipment and aids for people with long-term disabilities."
+      },
+      {
+        "id": "17",
+        "heading": "Developmental disabilities",
+        "description": "Programs for individuals with developmental disabilities and their families."
+      },
+      {
+        "id": "18",
+        "heading": "Disabilities employment programs",
+        "description": "Employment, education and training services focusing on the needs of adults with developmental and physical disabilities."
+      },
+      {
+        "id": "19",
+        "heading": "Disability associations",
+        "description": "Organizations that support children and adults with a disability and who raise awareness by providing education of challenges faced by people with disabilities."
+      },
+      {
+        "id": "20",
+        "heading": "Home repairs",
+        "description": "Financial assistance for home repair deficiencies, energy efficiency upgrades and accessibility upgrades."
+      },
+      {
+        "id": "21",
+        "heading": "Learning disabilities",
+        "description": "Support for individuals with learning disabilities and their families to meet their evolving needs."
+      },
+      {
+        "id": "311",
+        "heading": "Missing persons location assistance",
+        "description": "Programs to locate an individual who has been reported as missing or with whom contact has been lost. Also programs that maintain information about people who are vulnerable or have physical disabilities or special medical needs who may need special assistance in the event of a disaster or crisis."
+      },
+      {
+        "id": "22",
+        "heading": "Ontario Disability Support Program",
+        "description": "Provides income support and employment support to meet the needs of people with disabilities and their families who are in financial need, or who want to work. See also Service Canada centres for information about Canada Pension Plan Disability Benefits."
+      },
+      {
+        "id": "23",
+        "heading": "Parking permits for people with disabilities",
+        "description": "Permits to park in designated parking spaces."
+      },
+      {
+        "id": "24",
+        "heading": "Physical disabilities",
+        "description": "Programs for individuals with physical disabilities and their families."
+      },
+      {
+        "id": "25",
+        "heading": "Sport for people with disabilities",
+        "description": "Adapted sport and fitness activities for people with disabilities and special needs. Programs may be open to individuals of all ages and abilities, or specialized for people with developmental or physical disabilities."
+      },
+      {
+        "id": "26",
+        "heading": "Transportation for people with disabilities",
+        "description": "Transportation services for those with short-term or long-term disabilities. Rides for medical appointments, day programs, weekly shopping and other important resources."
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Emergency / Crisis",
+    "icon": "fa fa-ambulance",
+    "subtopics": [
+      {
+        "id": "28",
+        "heading": "Crisis lines",
+        "description": "Telephone response for emotional support, crisis intervention and suicide prevention."
+      },
+      {
+        "id": "29",
+        "heading": "Elder abuse",
+        "description": "Counseling, support and shelter programs for older adults experiencing or at risk of abuse or violence."
+      },
+      {
+        "id": "30",
+        "heading": "Hospital emergency / Urgent care",
+        "description": "Hospital emergency departments, urgent care centres and trauma centres."
+      },
+      {
+        "id": "31",
+        "heading": "In-person crisis services",
+        "description": "Emergency mobile crisis response and walk-in services for individuals experiencing a serious crisis."
+      },
+      {
+        "id": "312",
+        "heading": "Missing persons location assistance",
+        "description": "Programs to locate an individual who has been reported as missing or with whom contact has been lost."
+      },
+      {
+        "id": "32",
+        "heading": "Shelters from abuse",
+        "description": "Safe emergency accommodation for individuals at risk of abuse or violence."
+      },
+      {
+        "id": "33",
+        "heading": "Victims of crime support programs",
+        "description": "Immediate and ongoing support for victims of crime, including information and counseling. Also services for crime witnesses and families and friends of victims."
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Employment / Training",
+    "icon": "fa fa-money-bill",
+    "subtopics": [
+      {
+        "id": "35",
+        "heading": "Academic upgrading",
+        "description": "High school equivalency and academic upgrading programs to help adults gain entry into post-secondary or apprenticeship programs, or to find employment."
+      },
+      {
+        "id": "36",
+        "heading": "Adult literacy",
+        "description": "Basic instruction in writing, reading and mathematics. Includes first language literacy programs for those whose first language is not English or French."
+      },
+      {
+        "id": "37",
+        "heading": "Apprenticeship",
+        "description": "Apprenticeship preparation and training programs. May include information, counselling, registration and application assistance, and skills and aptitude assessment."
+      },
+      {
+        "id": "38",
+        "heading": "Career counselling",
+        "description": "Assessment of aptitude and skills, labour market information, counselling and referral for persons choosing a career direction."
+      },
+      {
+        "id": "39",
+        "heading": "Disabilities employment programs",
+        "description": "Employment, education and training services focusing on the needs of adults with developmental and physical disabilities."
+      },
+      {
+        "id": "40",
+        "heading": "Employer staffing assistance",
+        "description": "Support for employers seeking to increase or develop their staff, including financial incentives and retraining programs."
+      },
+      {
+        "id": "41",
+        "heading": "International credentials",
+        "description": "Services that assist in having foreign educational or occupational credentials assessed to determine Canadian equivalency for employment or other purposes. Includes organizations that provide credential assessment for a fee."
+      },
+      {
+        "id": "42",
+        "heading": "Internationally trained professionals",
+        "description": "Services for professionals trained in foreign countries to find work in their occupation or a related field. May include work experience, placement, mentoring, language testing and volunteer opportunities."
+      },
+      {
+        "id": "43",
+        "heading": "Job search support / training",
+        "description": "Advice and training in areas such as resume writing, research, interviewing and workplace expectations."
+      },
+      {
+        "id": "44",
+        "heading": "Newcomer employment programs",
+        "description": "Services that focus on assisting immigrants and refugees to prepare for and obtain employment."
+      },
+      {
+        "id": "45",
+        "heading": "Occupational health and safety",
+        "description": "Programs that promote safe and healthy work environments, including rights and responsibilities at work and Ontario's health and safety awareness training."
+      },
+      {
+        "id": "46",
+        "heading": "Self-employment / Entrepreneurship",
+        "description": "Programs for people who operate or want to start their own businesses."
+      },
+      {
+        "id": "47",
+        "heading": "Summer employment",
+        "description": "Seasonal programs assisting individuals in finding summer jobs, including students and youth."
+      },
+      {
+        "id": "48",
+        "heading": "Work experience",
+        "description": "Programs that provide practical work experience and the opportunity to develop skills, on a short-term/temporary basis."
+      },
+      {
+        "id": "49",
+        "heading": "Youth employment",
+        "description": "Programs and resources for youth and young adults seeking employment."
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Family services",
+    "icon": "fa fa-child",
+    "subtopics": [
+      {
+        "id": "51",
+        "heading": "Baby items",
+        "description": "Programs that pay for or provide baby items including baby food, formula and clothing."
+      },
+      {
+        "id": "52",
+        "heading": "Camps",
+        "description": "Day and residential camp programs for children and youth, including camps for children with special needs and camps with subsidies."
+      },
+      {
+        "id": "53",
+        "heading": "Child abuse services",
+        "description": "Investigation and intervention to ensure the safety and well-being of children who are vulnerable to abuse, neglect or exploitation."
+      },
+      {
+        "id": "54",
+        "heading": "Child care",
+        "description": "Licensed alternatives to family care including child care centres, nursery schools and school age programs."
+      },
+      {
+        "id": "55",
+        "heading": "Parent / Child programs",
+        "description": "Social, recreational and educational get-togethers for parents or caregivers and the young children they care for. May be structured or informal."
+      },
+      {
+        "id": "56",
+        "heading": "Pregnancy / Postnatal",
+        "description": "Services for new mothers and women who are, or want to be, pregnant."
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Financial Assistance",
+    "icon": "fa fa-life-ring",
+    "subtopics": [
+      {
+        "id": "58",
+        "heading": "Credit Counselling",
+        "description": "Non-profit and business organizations that provide credit and financial counselling, debt management, consumer proposals, money management, education and budgeting assistance to consumers and businesses."
+      },
+      {
+        "id": "59",
+        "heading": "Employment Insurance",
+        "description": "Federal and provincial financial assistance programs for individuals who are temporarily unemployed. Community Legal Clinics can also help low-income individuals with their application for government assistance programs and Workplace Safety and Insurance Board (WSIB) claims."
+      },
+      {
+        "id": "60",
+        "heading": "Federal Government Social Assistance Programs",
+        "description": "Federal social assistance programs such as Old Age Security, Guaranteed Income Supplement, disability benefits, survivor benefits, caregiver benefits, etc. There are a wide variety of programs that depend on your situation."
+      },
+      {
+        "id": "61",
+        "heading": "Financial assistance programs for seniors",
+        "description": "Government social assistance programs for seniors which include Old Age Security, Guaranteed Income Supplement, Canada Pension Plan and other supports. These also include Indigenous social assistance supports."
+      },
+      {
+        "id": "62",
+        "heading": "Ontario Government Social Assistance Programs",
+        "description": "Ontario social assistance programs (can also called social assistance or welfare) such as Ontario Works and Ontario Disability Support Program which provide financial help. Also included are programs if you need to appeal an application�s denial of benefits and government subsidized prescription drug benefits programs."
+      },
+      {
+        "id": "63",
+        "heading": "Other Financial Assistance Programs",
+        "description": "Miscellaneous programs that provide financial support for those eligible. For example, social service clubs grants, property tax relief, medical expense programs, recreation programs, training expense help and health services which provide financial support for certain health conditions."
+      },
+      {
+        "id": "64",
+        "heading": "Rent and Housing Assistance Programs",
+        "description": "Financial relief and loans for rent, first and last deposit, subsidized rent from rent banks and housing programs."
+      },
+      {
+        "id": "65",
+        "heading": "Utility Assistance Programs",
+        "description": "Financial assistance to pay electricity, gas and water bills with the help utility financial assistance programs."
+      },
+      {
+        "id": "66",
+        "heading": "Workers Compensation",
+        "description": "Government programs, such as Workplace Safety and Insurance Board (WSIB), that provides income replacement/compensation, vocational rehabilitation, occupational therapy and retraining for injured workers."
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Food",
+    "icon": "fa fa-bread-slice",
+    "subtopics": [
+      {
+        "id": "68",
+        "heading": "Cooking classes and facilities",
+        "description": "Programs that provide kitchen facilities that individuals, groups or organizations can use to prepare and serve food. Includes programs that teach people how to prepare nutritious and affordable meals."
+      },
+      {
+        "id": "69",
+        "heading": "Food access for seniors/people with disabilities",
+        "description": "Variety of programs that support the capacity of older adults and adults with disabilities to maintain healthy eating habits, including social dining, meal delivery, assistance for grocery shopping and in home meal preparation."
+      },
+      {
+        "id": "70",
+        "heading": "Food banks and referrals",
+        "description": "Programs that distribute free groceries or vouchers to eligible individuals and families on low incomes. Typically operate one or two days a week, and serve only those residing within specific geographic boundaries. Includes organizations referring the general public to these programs."
+      },
+      {
+        "id": "71",
+        "heading": "Food delivery",
+        "description": "Food banks and grocery stores that deliver food to people who are homebound. Includes programs that deliver boxes of fresh fruits and vegetables on a regular basis to individuals who enroll in the service."
+      },
+      {
+        "id": "72",
+        "heading": "Food for special dietary needs",
+        "description": "Programs that provide vitamins and other nutrients."
+      },
+      {
+        "id": "73",
+        "heading": "Free / Low-cost meals",
+        "description": "Community programs generally open to all, but focused on individuals who are on low incomes, homeless or unemployed."
+      },
+      {
+        "id": "74",
+        "heading": "Grocery stores, fresh food and producers",
+        "description": "Programs where the public can buy fresh food products, including grocery stores and cooperatives, farmers markets and farms."
+      },
+      {
+        "id": "75",
+        "heading": "Grow / Pick your own food",
+        "description": "Programs that support members of the public to produce their own fruits and vegetables by giving access to community gardens, providing tools and advice on gardening, or by organizing trips to pick fresh produce directly from local farms."
+      },
+      {
+        "id": "76",
+        "heading": "Infant formula / Baby food",
+        "description": "Programs that provide baby food, usually in addition to other baby items and groceries."
+      },
+      {
+        "id": "77",
+        "heading": "Non-profit catering services and eating establishments",
+        "description": "Social enterprises providing meals and catering services. Some operate with the mandate of providing training or working experience to groups facing employment barriers."
+      },
+      {
+        "id": "78",
+        "heading": "Other food security initiatives",
+        "description": "Organizations that advocate or run programs to increase food security in their local community, including food coalitions, food rescue programs, foundations, and other agencies/services generally involved in poverty and hunger reduction."
+      },
+      {
+        "id": "79",
+        "heading": "School meal programs",
+        "description": "Programs that provide free or low-cost meals or snacks to school children."
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Francophones",
+    "icon": "fa fa-user-friends",
+    "subtopics": [
+      {
+        "id": "81",
+        "heading": "Francophones",
+        "description": "Services focusing on the needs of the French-speaking community."
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Government / Legal",
+    "icon": "fa fa-balance-scale",
+    "subtopics": [
+      {
+        "id": "83",
+        "heading": "Community legal clinics",
+        "description": "Community-based clinics that provide legal advice and representation in areas of law that affect low-income individuals and other vulnerable populations."
+      },
+      {
+        "id": "84",
+        "heading": "Community legal services",
+        "description": "Legal services, including advice and representation, funded by Legal Aid Ontario. Includes specialty clinics that focus on a particular area of law."
+      },
+      {
+        "id": "85",
+        "heading": "Consumer protection / Complaints",
+        "description": "Services that educate or protect individuals who access or purchase products and services. Includes consumer fraud reporting and investigation of complaints about professional, community and government services."
+      },
+      {
+        "id": "86",
+        "heading": "Elected officials",
+        "description": "Government officials and elected representatives for the Province of Ontario and Canada."
+      },
+      {
+        "id": "87",
+        "heading": "Human rights",
+        "description": "Including advocacy, discrimination assistance and constitutional law."
+      },
+      {
+        "id": "88",
+        "heading": "ID (identification)",
+        "description": "Help in getting or replacing Social Insurance Numbers, health cards, passports or other forms of ID."
+      },
+      {
+        "id": "89",
+        "heading": "Legal information",
+        "description": "Information, education, resources and referral for anyone in the community, on a variety of legal topics."
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Health Care",
+    "icon": "fa fa-first-aid",
+    "subtopics": [
+      {
+        "id": "91",
+        "heading": "Community health centres",
+        "description": "Outpatient clinics in the community that provide comprehensive primary health care and education by a team of health professionals."
+      },
+      {
+        "id": "92",
+        "heading": "Finding a medical professional",
+        "description": "Services that help you find a doctor, dentist, or other medical professional."
+      },
+      {
+        "id": "93",
+        "heading": "Home support programs",
+        "description": "Non-medical services that provide assistance in performing routine household, yard and personal care activities for older adults, people with disabilities, eligible low income people, families whose normal routines have been disrupted by an emergency or others who need or want these services."
+      },
+      {
+        "id": "94",
+        "heading": "Hospice / palliative care",
+        "description": "In-home and facility-based programs for individuals with terminal illness, their families and friends. Included are organizations that deal with death and dying issues."
+      },
+      {
+        "id": "95",
+        "heading": "Hospital emergency / Urgent care",
+        "description": "Hospital emergency departments, urgent care centres and trauma centres."
+      },
+      {
+        "id": "96",
+        "heading": "Hospitals",
+        "description": "General acute care and specialty hospitals."
+      },
+      {
+        "id": "97",
+        "heading": "Local Health Integration Networks",
+        "description": "Responsible for arranging in-home or school health and social services, and to process placements in long-term care facilities for individuals who can no longer remain in their own homes."
+      },
+      {
+        "id": "98",
+        "heading": "Long term care homes",
+        "description": "Accommodation for individuals who require more nursing or personal care than can be provided through home support or other options. Formerly known as homes for the aged and nursing homes."
+      },
+      {
+        "id": "99",
+        "heading": "Pregnancy / Postnatal",
+        "description": "Services for new mothers and women who are, or want to be, pregnant."
+      },
+      {
+        "id": "100",
+        "heading": "Transportation to medical appointments",
+        "description": "Transportation for medical appointments."
+      },
+      {
+        "id": "101",
+        "heading": "Walk-in medical clinics",
+        "description": "Medical consultation and treatment for illnesses or injuries that do not need the attention of a hospital emergency department."
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Homelessness",
+    "icon": "fa fa-bed",
+    "subtopics": [
+      {
+        "id": "103",
+        "heading": "Free / Low-cost meals",
+        "description": "Community programs generally open to all, but focused on individuals who are on low incomes, homeless or unemployed."
+      },
+      {
+        "id": "104",
+        "heading": "Homeless respite",
+        "description": "Day centres where homeless people can spend time during the day or evening. May offer supplies, facilities for personal care or needs, or other basic supportive services. Include also programs that offer recuperative care to homeless people who are too ill or frail to recover from an illness or injury while living on the streets."
+      },
+      {
+        "id": "105",
+        "heading": "Homeless shelters",
+        "description": "Emergency accommodation for people who are homeless."
+      },
+      {
+        "id": "106",
+        "heading": "Street outreach",
+        "description": "Outreach to homeless or street-involved individuals. May include counselling, mobile health services, food, clothing, hygiene items, and assistance obtaining shelter and housing."
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Housing",
+    "icon": "fa fa-home",
+    "subtopics": [
+      {
+        "id": "108",
+        "heading": "Health related temporary housing",
+        "description": "Accommodation for out-of-town medical patients and/or their families."
+      },
+      {
+        "id": "109",
+        "heading": "Help to find housing",
+        "description": "Services providing assistance in locating and securing permanent housing, particularly housing help centres."
+      },
+      {
+        "id": "110",
+        "heading": "Home improvement / renovation / accessibility",
+        "description": "Programs that assist in home efficiency improvements, barrier removal and accessibility, and low cost materials."
+      },
+      {
+        "id": "111",
+        "heading": "Home ownership",
+        "description": "Programs that can help with financing a new home through loans, subsidies and grants."
+      },
+      {
+        "id": "112",
+        "heading": "Housing expense assistance",
+        "description": "Programs that may help with costs related to accessing and maintaining housing, such as moving costs, rent and rental deposits, and home barrier removal."
+      },
+      {
+        "id": "113",
+        "heading": "Other housing related services / organizations",
+        "description": "Services such as tenant or landlord support, rent control, moving services, insurance and advocacy."
+      },
+      {
+        "id": "114",
+        "heading": "Rental housing",
+        "description": "Access points to find out about and apply for available rental units."
+      },
+      {
+        "id": "115",
+        "heading": "Retirement housing",
+        "description": "Private housing for older adults able to pay for their own care and support and not requiring 24-hour nursing care."
+      },
+      {
+        "id": "116",
+        "heading": "Supportive (semi-independent) housing",
+        "description": "Services for individuals requiring some support to live independently in an apartment setting (typically in specific, designated buildings), including 24-hour emergency response."
+      },
+      {
+        "id": "117",
+        "heading": "Transitional housing",
+        "description": "Short-term accommodation for those leaving emergency shelters or in need of housing during a life transition, including people with mental illness and addictions, single mothers and victims of violence."
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Indigenous Peoples",
+    "icon": "fa fa-feather-alt",
+    "subtopics": [
+      {
+        "id": "119",
+        "heading": "Indigenous Peoples",
+        "description": "Wide range of programs and services focusing on the needs of individuals in the First Nations, Inuit and M�tis communities, including counselling, health, housing, legal, educational and crisis services."
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "LGBTQ+",
+    "icon": "fa fa-rainbow",
+    "subtopics": [
+      {
+        "id": "121",
+        "heading": "LGBTQ+",
+        "description": "Programs for persons who are lesbian, gay, bisexual, transsexual, transgender, queer or questioning."
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Mental Health / Addictions",
+    "icon": "fa fa-head-side-brain",
+    "subtopics": [
+      {
+        "id": "123",
+        "heading": "Addiction counselling",
+        "description": "Including substance abuse, smoking cessation and compulsive gambling."
+      },
+      {
+        "id": "124",
+        "heading": "Addiction treatment",
+        "description": "Withdrawal and treatment programs for individuals experiencing alcoholism, drug addiction, compulsive gambling, eating disorders and food addiction."
+      },
+      {
+        "id": "125",
+        "heading": "Community mental health centres",
+        "description": "Community-based centres that provide counselling, therapy, treatment, medication and other services, on an outpatient basis."
+      },
+      {
+        "id": "126",
+        "heading": "Crisis lines",
+        "description": "Telephone response for emotional support, crisis intervention and suicide prevention."
+      },
+      {
+        "id": "127",
+        "heading": "Geriatric psychiatry",
+        "description": "Mental health counselling and treatment for older adults."
+      },
+      {
+        "id": "128",
+        "heading": "In-person crisis services",
+        "description": "Emergency mobile crisis response and walk-in services for individuals experiencing a serious crisis."
+      },
+      {
+        "id": "129",
+        "heading": "Justice and mental health programs",
+        "description": "Services for individuals involved with the criminal justice system who have a mental health background, including diversion programs."
+      },
+      {
+        "id": "130",
+        "heading": "Psychiatric hospitals",
+        "description": "Facilities with long or short-term, inpatient or outpatient mental health services for children, adolescents, adults or older adults."
+      },
+      {
+        "id": "131",
+        "heading": "Support groups",
+        "description": "Mutual aid groups for individuals (and often families and friends) who share a common problem or concern, including emotional or mental health issues and disorders."
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Newcomers",
+    "icon": "fa fa-plane-arrival",
+    "subtopics": [
+      {
+        "id": "133",
+        "heading": "Consulates / Embassies",
+        "description": "Foreign diplomatic, consular and other representatives in Canada, as well as Canadian embassies, consulates and high commissions abroad."
+      },
+      {
+        "id": "134",
+        "heading": "English as a second language",
+        "description": "Classes for adults learning English, including LINC (Language Instruction for Newcomers to Canada) programs."
+      },
+      {
+        "id": "135",
+        "heading": "French as a second language",
+        "description": "Classes for adults learning French, including LINC (Language Instruction for Newcomers to Canada) programs."
+      },
+      {
+        "id": "136",
+        "heading": "Immigration / Sponsorship",
+        "description": "Services related to the process of immigrating to Canada, including sponsorship and appeals."
+      },
+      {
+        "id": "137",
+        "heading": "International credentials",
+        "description": "Services that assist in having foreign educational or occupational credentials assessed to determine Canadian equivalency for employment or other purposes. Includes organizations that provide credential assessment for a fee."
+      },
+      {
+        "id": "138",
+        "heading": "Internationally-trained professionals",
+        "description": "Services for professionals trained in foreign countries to find work in their occupation or a related field. May include work experience, placement, mentoring, language testing and volunteer opportunities."
+      },
+      {
+        "id": "139",
+        "heading": "Interpretation / Translation",
+        "description": "Programs that provide translation of written documents or oral interpretation services."
+      },
+      {
+        "id": "140",
+        "heading": "Newcomer employment programs",
+        "description": "Services that focus on assisting immigrants and refugees to prepare for and obtain employment."
+      },
+      {
+        "id": "141",
+        "heading": "Refugees",
+        "description": "Services for people in any stage of a refugee claim."
+      },
+      {
+        "id": "142",
+        "heading": "Settlement services",
+        "description": "Services that assist immigrants and refugees settling in Canada with their immediate needs, or with ongoing integration into Canadian society."
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Older Adults",
+    "icon": "fa fa-heart",
+    "subtopics": [
+      {
+        "id": "144",
+        "heading": "Elder abuse",
+        "description": "Counseling, support and shelter programs for older adults experiencing or at risk of abuse or violence."
+      },
+      {
+        "id": "145",
+        "heading": "Geriatric psychiatry",
+        "description": "Mental health counselling and treatment for older adults."
+      },
+      {
+        "id": "146",
+        "heading": "Housing for seniors",
+        "description": "Alternative housing options for older adults, including supportive housing that offer minimal support such as homemaking or personal care, and life lease housing where residents can own a suite in a senior community and receive support services for a fee."
+      },
+      {
+        "id": "147",
+        "heading": "Income programs for older adults",
+        "description": "Government pension and benefit programs for older adults, and organizations that provide information and application assistance."
+      },
+      {
+        "id": "148",
+        "heading": "Long term care homes",
+        "description": "Accommodation for individuals who require more nursing or personal care than can be provided through home support or other options. Formerly known as homes for the aged and nursing homes."
+      },
+      {
+        "id": "313",
+        "heading": "Missing persons location assistance",
+        "description": "Programs to locate an individual who has been reported as missing or become lost. Also programs that maintain information about people who are vulnerable to wandering due to Alzheimer�s disease or a related dementia."
+      },
+      {
+        "id": "149",
+        "heading": "Retirement homes",
+        "description": "Private housing options for older adults able to pay for their own care and not requiring 24-hour nursing care. Usually offer meals, social and recreational programs, as well as various levels of homemaking help, personal care and health services."
+      },
+      {
+        "id": "150",
+        "heading": "Transportation for older adults",
+        "description": "Transportation for seniors and individuals with restricted mobility."
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Youth",
+    "icon": "fa fa-head-side-headphones",
+    "subtopics": [
+      {
+        "id": "152",
+        "heading": "Shelters for youth",
+        "description": "Long and short term housing for youth, many with additional services and resources."
+      },
+      {
+        "id": "153",
+        "heading": "Summer employment",
+        "description": "Seasonal programs assisting individuals in finding summer jobs, including students and youth."
+      },
+      {
+        "id": "154",
+        "heading": "Young parents",
+        "description": "Programs and resources for young parents, including drop-ins, support programs, and help with parenting skills."
+      },
+      {
+        "id": "155",
+        "heading": "Youth Drop-In Centres",
+        "description": "Multipurpose centres that serve as a focal point for youth in the community and which offer, at a single location, a wide variety of services and activities."
+      },
+      {
+        "id": "156",
+        "heading": "Youth employment",
+        "description": "Programs and resources for youth and young adults seeking employment."
+      }
+    ]
+  }
+]
