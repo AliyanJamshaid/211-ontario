@@ -181,7 +181,6 @@ export const generateComprehensiveServiceEmbedding = async (service: {
   subtitle?: string;
   description?: string;
   address?: string;
-  phone?: string;
   website?: string;
   locations?: string[];
   details?: {
@@ -224,11 +223,6 @@ export const generateComprehensiveServiceEmbedding = async (service: {
 
     if (service.locations && service.locations.length > 0) {
       textParts.push(`Locations: ${service.locations.join(', ')}`);
-    }
-
-    // Contact information
-    if (service.phone) {
-      textParts.push(`Phone: ${service.phone}`);
     }
 
     // Detailed information from details object

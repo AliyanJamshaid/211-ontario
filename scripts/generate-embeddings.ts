@@ -103,7 +103,6 @@ async function generateEmbeddings() {
             subtitle: service.subtitle,
             description: service.description,
             address: service.address,
-            phone: service.phone,
             website: service.website,
             locations: service.locations,
             details: service.details,
